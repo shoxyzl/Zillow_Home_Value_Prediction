@@ -6,9 +6,7 @@ This project uses data exploration, data processing, feature engineering, and ma
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
