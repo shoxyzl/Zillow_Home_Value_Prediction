@@ -29,22 +29,16 @@ To use this project, you need to follow the following steps:
 6. Follow the instructions in the notebook to explore the data, process it, engineer features, and train the CatBoost and LightGBM models.
 7. Use the trained models to make predictions on new data.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or issues, please report them in the GitHub Issues section of this repository. If you would like to contribute code, please fork the repository and submit a pull request.
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-If you have any questions or comments about this project, please feel free to reach out to the project owner at [your email address or GitHub profile link].
 
 ## Acknowledgements
 
 Thank you to the following resources for providing helpful information and code snippets:
 
-- [Zillow](https://www.zillow.com/)
+- [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/competitions/zillow-prize-1)
 - [CatBoost documentation](https://catboost.ai/docs/)
 - [LightGBM documentation](https://lightgbm.readthedocs.io/)
