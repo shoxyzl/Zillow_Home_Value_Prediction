@@ -10,11 +10,11 @@ This project uses data exploration, data processing, feature engineering, and ma
 - [Acknowledgements](#acknowledgements)
 
 ## Files
-'Zillow’s Home Value Prediction.ipynb' contains the basic data exploration, data processing, feature engineering, and CatBoost Part.
+`Zillow’s Home Value Prediction.ipynb` contains the basic data exploration, data processing, feature engineering, and CatBoost Part.
 
-'LightGBM.ipynb' contains the LightGBM part. 
+`LightGBM.ipynb` contains the LightGBM part. 
 
-'src/data_proc.py' includes data cleaning and feature extraction methods.
+`src/data_proc.py` includes data cleaning and feature extraction methods.
 
 ## Usage
 
@@ -23,7 +23,7 @@ To use this project, you need to follow the following steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Create 'data' and 'hdf5' folders.
-4. Download data sets from Kaggle(https://www.kaggle.com/competitions/zillow-prize-1/data) and unzip them in 'data'.
+4. Download data sets from [Kaggle](https://www.kaggle.com/competitions/zillow-prize-1/data) and unzip them in 'data'.
 5. Run `jupyter notebook` in your terminal to open the Jupyter Notebook.
 6. Open the notebook `zillow_home_value_prediction.ipynb`.
 7. Follow the instructions in the notebook to explore the data, process it, engineer features, and train the CatBoost and LightGBM models.
@@ -42,4 +42,3 @@ Thank you to the following resources for providing helpful information and code 
 - [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/competitions/zillow-prize-1)
 - [CatBoost documentation](https://catboost.ai/docs/)
 - [LightGBM documentation](https://lightgbm.readthedocs.io/)
-
