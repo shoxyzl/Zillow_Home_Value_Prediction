@@ -1,4 +1,4 @@
-# Zillow Home Value Prediction
+# Zillow's Home Value Prediction
 
 This project uses data exploration, data processing, feature engineering, and machine learning algorithms (specifically, CatBoost and LightGBM) to predict the log-error between their Zestimate and the actual sale price, given all the features of a home. In the training part, I first used 80% of data as training set, and 20% as testing set. According the training results to modify algorithm's parameters, the best score of which will be selected to predict final $logerror$.
 
